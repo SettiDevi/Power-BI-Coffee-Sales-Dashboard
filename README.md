@@ -30,7 +30,11 @@ The dashboard is like below screenshot.
 ![Screenshot 2024-10-14 134151](https://github.com/user-attachments/assets/25382e39-aa47-4a61-89c2-972f72dd244c)
 
 
-C:\Users\setti\OneDrive\Pictures\Screenshots\Screenshot 2024-10-14 134151.png
+
+
+![Screenshot 2024-10-14 134151](https://github.com/user-attachments/assets/f58cd5e2-6b41-4b0e-af6a-ddd606c27f27)
+
+
 
 
 
