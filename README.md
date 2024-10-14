@@ -4,13 +4,18 @@ It is intended for analysis of purchasing patterns, sales trends, and customer p
 
 Tasks 
 1.Time Series Exploratory Data Analysis
+
 2.Next day/week/month sales
+
 3.Specific customer purchases
+
 
 The Dashboard called Coffee Sales Dahboard was created  for providing the detailed insights on these 3 tasks.
 
 KPI's performed:
+
 1.Total Sales
+
 2.Total Revenue
 
 1.Time Series Exploratory Data Analysis:In this task I find Hourly Coffee sales of each day from March to August month.
