@@ -21,9 +21,11 @@ KPI's performed:
 1.Time Series Exploratory Data Analysis:In this task I find Hourly Coffee sales of each day from March to August month.
 Key Findings- The peak time sales are happened at 9:00 AM to 11:00 AM in the Morning and Evening at 5:00 PM to 7:00 PM.So at that time the coffee sales are high if one more vending machine are available at that time the sales are raised gradually.To get more revenue and to expand Coffee business we have to provide one more vending machine in the store.   
 
-2.Next day/week/month sales:In this task I Forecast next 60 days sales to get an understanding whether the sales are increased or not by using previous 6 months data.
+2.Next day/week/month sales:In this task I Forecast next 60 days sales to get an understanding whether the sales are increased or not by using previous 6 months data.In future the coffee type Americano with Milk and Latte are mostly saled coffees.
 
 3.Specific customer purchases: In this task customer specific purchases insights are created.From these we can find out who are buying coffee regularly and which coffee they are buying.
+Key Findings- Most customers are fond of Americano with Milk, Latte, Capuccino Coffees.If we are more available for these 3 coffee type definitely the sales are also incresed day by day.
+The most sold coffee type is Americano with Milk and the most revenue created coffee type is Latte.
 
 The dashboard is like below screenshot.
 
