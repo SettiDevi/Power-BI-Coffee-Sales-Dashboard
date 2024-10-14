@@ -24,3 +24,16 @@ Key Findings- The peak time sales are happened at 9:00 AM to 11:00 AM in the Mor
 2.Next day/week/month sales:In this task I Forecast next 60 days sales to get an understanding whether the sales are increased or not by using previous 6 months data.
 
 3.Specific customer purchases: In this task customer specific purchases insights are created.From these we can find out who are buying coffee regularly and which coffee they are buying.
+
+The dashboard is like below screenshot.
+
+C:\Users\setti\OneDrive\Pictures\Screenshots\Screenshot 2024-10-14 134136.png
+
+
+C:\Users\setti\OneDrive\Pictures\Screenshots\Screenshot 2024-10-14 134151.png
+
+
+
+To get More dynamic visual understanding just click on the below link 
+
+https://app.powerbi.com/groups/me/reports/fde1e74f-7f3c-4a59-b49a-d0d403ad3967/ba17607f6567e54932ee?experience=power-bi
