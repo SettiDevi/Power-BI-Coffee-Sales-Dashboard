@@ -27,14 +27,11 @@ Key Findings- The peak time sales are happened at 9:00 AM to 11:00 AM in the Mor
 
 The dashboard is like below screenshot.
 
-![Screenshot 2024-10-14 134151](https://github.com/user-attachments/assets/25382e39-aa47-4a61-89c2-972f72dd244c)
+![Screenshot 2024-10-14 134136](https://github.com/user-attachments/assets/4982a0a5-33c8-44f1-8f93-72ebf5bec4b1)
 
 
 
-
-![Screenshot 2024-10-14 134151](https://github.com/user-attachments/assets/f58cd5e2-6b41-4b0e-af6a-ddd606c27f27)
-
-
+![Screenshot 2024-10-14 134151](https://github.com/user-attachments/assets/06a139d9-8b41-48c9-aba4-655cf3313d41)
 
 
 
